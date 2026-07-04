@@ -11,6 +11,7 @@ public class CopyArray
         for(int i=0; i< arr.length;i++){
             newarr[i] = arr[i];
         }
+
         return newarr;
     }
 // Approach 2
